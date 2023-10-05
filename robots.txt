@@ -1,0 +1,1 @@
+Sitemap: https://isados.github.io/deck_of_cards/sitemap.xml

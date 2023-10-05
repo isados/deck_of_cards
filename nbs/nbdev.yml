@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "deck_of_cards"
+  site-url: "https://isados.github.io/deck_of_cards"
+  description: "A basic nb_dev project"
+  repo-branch: main
+  repo-url: "https://github.com/isados/deck_of_cards"
